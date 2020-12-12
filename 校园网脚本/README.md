@@ -101,6 +101,6 @@ start cmd /k "node "D:\Program Files (x86)\WLANAUTO\connect.js"&&exit"
 
 记得设置电脑的WiFi自动连接。如图：
 
-
+https://github.com/zhangdege/auto_connection_wlan/blob/master/%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%84%9A%E6%9C%AC/20201212_223831.gif
 
 然后就大功告成了。
