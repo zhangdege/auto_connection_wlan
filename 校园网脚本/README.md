@@ -83,7 +83,7 @@ setTimeout(()=>{
 
 
 
-![20201212_223831](C:\Users\Kenny\Desktop\20201212_223831.gif)
+![20201212_223831](https://github.com/zhangdege/auto_connection_wlan/blob/master/%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%84%9A%E6%9C%AC/20201212_223831.gif)
 
 可以看到，我们能够成功通过脚本连接上校园网。
 
@@ -101,6 +101,6 @@ start cmd /k "node "D:\Program Files (x86)\WLANAUTO\connect.js"&&exit"
 
 记得设置电脑的WiFi自动连接。如图：
 
-![1607784741778](C:\Users\Kenny\AppData\Roaming\Typora\typora-user-images\1607784741778.png)
+https://github.com/zhangdege/auto_connection_wlan/blob/master/%E6%A0%A1%E5%9B%AD%E7%BD%91%E8%84%9A%E6%9C%AC/20201212_223831.gif
 
 然后就大功告成了。
